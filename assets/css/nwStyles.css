@@ -1,0 +1,76 @@
+/*
+Color: 
+    Verde Lima: #9cd920;
+*/
+
+/*
+------==========Start whatsapp=============-------
+*/
+
+.inf_contacto{
+    width: 100%; height: 120px;
+    margin-bottom: 10px;
+    background-color: #9bd920d3;
+    padding: 5px;
+
+}
+.inf {
+    text-align: center;
+    font-size: 16px; font-weight: bold;
+    font-family: 'Helvetica', sans-serif;
+
+}
+.whatsapp_media{
+    padding-top: 10px; padding-bottom: 10px;
+    text-align: center;
+    display: flex; flex-direction: row;
+    justify-content: center;
+}
+
+.link_whts{
+    width: 150px; height: 40px;
+    background-color: #55cd6c;
+    border: 2px solid green;
+    border-radius: 25px;
+    padding: 2px;
+    display: flex; flex-direction: column;
+}
+.link_whts a {
+    font-weight: bolder; color: whitesmoke;
+    font-size: 24px; text-decoration: none;
+    font-family: 'Helvetica', sans-serif;
+}
+.link_whts:hover{
+    background-color: #3e834d;
+    border: 2px solid white;
+}
+
+
+/*
+------==========End whatsapp=============-------
+*/
+/*
+------==========Start What-we-do=============-------
+*/
+.product-inf {
+    display: flex; flex-direction: column; 
+    align-items: center; margin: 0 auto;
+}
+.product-inf div {
+    align-items: center; margin: 0 auto;
+}
+/*
+------==========End What-we-do=============-------
+*/
+/*
+------==========Start Productos=============-------
+----Modificacion de la clase
+*/
+
+.portfolio-wrap {
+    padding-bottom: 15px;
+}
+
+/*
+------==========End Productos=============-------
+*/
